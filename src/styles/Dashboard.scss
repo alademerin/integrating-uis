@@ -1,0 +1,33 @@
+.container{
+  background: #f8f8f8;
+  // margin: 0 100px;
+    overflow-y: scroll;
+
+}
+.search-container{
+  width:100%;
+  display:'flex'; 
+  justify-content:'flex-end';
+  margin-top:60px;
+  .search-bar{
+    margin-right:45px;
+    width:200px;
+  }
+}
+
+.card-grid{
+  width:100%;
+  margin-top:15px;
+  justify-content:center
+}
+.table{
+  margin:0px 50px;
+}
+.input-grid{
+  align-items:center;
+}
+.select{
+  border:none;
+  // height:100px;
+  // background:red; 
+}
